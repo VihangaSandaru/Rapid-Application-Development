@@ -1,0 +1,21 @@
+.box{
+    width: 300px;
+}
+
+.btn{
+    height: 36px;
+    width: 159px;
+    background-color: #848484;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+
+#headder{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.box form input{
+    margin-right: 5px;
+}

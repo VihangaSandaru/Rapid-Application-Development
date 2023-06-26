@@ -1,0 +1,37 @@
+.box{
+    width: 369px;
+    background-color: rgb(230, 230, 230);
+    padding: 10px 24px;
+}
+
+
+#name{
+    border-radius: 3px;
+    width: 193px;
+    height: 20px;
+    margin-top: 5px;
+    border: 1px solid #b5b5b5;
+    padding: 3px 8px;
+    font-size: smaller;
+    margin-top: 9px;
+}
+
+#birthday{
+    border-radius: 3px;
+    width: 193px;
+    height: 20px;
+    margin-top: 5px;
+    border: 1px solid #b5b5b5;
+    padding: 3px 8px;
+    font-size: smaller;
+    margin-top: 9px;
+}
+
+.btn{
+    height: 36px;
+    width: 159px;
+    background-color: #2b9f2b;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
