@@ -1,0 +1,60 @@
+.parts{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.headder h3{
+    color: rgb(0 0 0);
+    font-size: xxx-large;
+    width: 283px;
+    height: 90px;
+    box-shadow: inset 0px 0px 20px 20px rgb(83 84 85);
+    background-color: gainsboro;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 34px;
+    margin
+    
+}
+.btn{
+    height: 87px;
+    color: rgb(0 0 0);
+    width: 171px;
+    word-wrap: break-word;
+    background-color: darkorange;
+    font-size: 20px;
+    border-radius: 13px;
+}
+
+.headder{
+    display: flex;
+    justify-content: center;
+}
+
+/* #Activity1{
+    background-color: #2ad1c2e0;
+}
+#Activity2{
+    background-color: darksalmon;
+}
+#Activity3{
+    background-color: lightgreen;
+} */
+.btn:hover{
+    height: 87px;
+    color: darkorange;
+    width: 171px;
+    word-wrap: break-word;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 13px;
+    box-shadow: 0px 0px 20px 20px rgb(255 255 255);
+}
+.Activity{
+    background-image: url(../img/collagehouse-wide.jpg);
+    background-size: cover;
+}
